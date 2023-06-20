@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(197, 241, 197);
+    font-family: 'Tangerine', serif;
+}
+
+
+img{
+    height:100hv;
+    width:50%;
+    background-color:rgb(197, 241, 197);
+    border: 1px black solid;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+
+.logo {
+    width: 400px;
+  height: 200px;
+  margin: 0 auto;
+  /* margin-top: 50px; */
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+
+}
